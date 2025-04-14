@@ -1139,7 +1139,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/psi.jpg");
+			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.5), rgba(19, 21, 25, 0.5)), url("../../images/fundo.jpg");
 			background-size: auto,
  256px 256px;
 			background-position: center,
@@ -1665,3 +1665,17 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		.logo img {
+			height: 55px;
+			width: auto;
+			margin-top: 15px;
+		  }
+
+		  .footer-icon {
+			width: 50px;
+			height: auto;
+			margin-top: 10px;
+		  }
+		  
+
