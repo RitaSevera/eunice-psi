@@ -1666,10 +1666,15 @@ input, select, textarea {
 			opacity: 0;
 		}
 
+		.logo {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+		}
+
 		.logo img {
 			height: 55px;
 			width: auto;
-			margin-top: 15px;
 		  }
 
 		  .footer-icon {
